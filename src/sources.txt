@@ -1,0 +1,1 @@
+javac -classpath /Users/apple/Desktop/java/lib/fastjson-1.2.9.jar Config/*.java clientUtil/*.java Server/*.java Client/*.java Protocol/*.java Loggerfile/*.java
